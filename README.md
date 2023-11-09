@@ -15,7 +15,7 @@ class Person:
             'misc': ['Docker', 'poetry', 'linux']
         }
         self.networks: dict = {
-            'linkedin': 'https://www.linkedin.com/in/diogo-martins-64a29687/',
+            'linkedin': 'https://www.linkedin.com/in/diogomartinss',
             'twitter': 'https://twitter.com/yogaxpto',
         }
         self.current_focus: str = 'Rust for embedded systems'
